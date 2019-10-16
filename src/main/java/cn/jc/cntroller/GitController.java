@@ -10,5 +10,6 @@ public class GitController {
         System.out.println("git dev test01");
         System.out.println("git future test01");
         System.out.println("git gitidea update");
+        System.out.println("git github update");
     }
 }
