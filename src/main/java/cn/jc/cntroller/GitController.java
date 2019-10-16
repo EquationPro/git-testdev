@@ -7,5 +7,6 @@ package cn.jc.cntroller;
 public class GitController {
     public static void main(String[] args) {
         System.out.println("git test01");
+        System.out.println("git dev test01");
     }
 }
